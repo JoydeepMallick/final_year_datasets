@@ -2,7 +2,7 @@
 
 The dataset has been gathered from Preprocessed folder of [dalton-dataset](https://github.com/prasenjit52282/dalton-dataset/tree/main/Processed) for further cleaning.
 
-The cleaned data of all files is stored in `Cleaned` folder for conveinence.
+The cleaned data of all files is stored in `Cleaned` folder for conveinence. Extremely **big files have been compressed to be under 100mb and need to be extracted individually**.
 
 In order to clean the data store entire `Preprocessed` folder and the `combiner.py` in the same directory and then run:
 
@@ -28,3 +28,7 @@ All the csv files will be created in the name format `folder_name.csv` in the `C
 [x] Folder F1 and F2
 
 [ ] Folder H1 extracted before `2023_05_29/45_Parent_room.csv`
+
+NOTE :
+
+F1 and F2 seem identical. Need to check if they are same or not.
