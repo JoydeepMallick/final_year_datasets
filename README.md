@@ -22,6 +22,9 @@ All the csv files will be created in the name format `folder_name.csv` in the `C
 ### Done till now
 
 [x] Folder A1 till A8
+
 [x] Folder C1 and C2
+
 [x] Folder F1 and F2
+
 [ ] Folder H1 extracted before `2023_05_29/45_Parent_room.csv`
