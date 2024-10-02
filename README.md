@@ -16,18 +16,16 @@ All the csv files will be created in the name format `folder_name.csv` in the `C
 
 ### Bandwidth expired from (cannot view raw files anymore)
 
-1. https://github.com/prasenjit52282/dalton-dataset/blob/main/Processed/H1/2023_05_29/45_Parent_room.csv
+1. R1, R2, .... cannot be viewed
 
 
 ### Done till now
 
-[x] Folder A1 till A8
+✅ Folder A1 till A8
 
-[x] Folder C1 and C2
+✅ Folder F1 and F2
 
-[x] Folder F1 and F2
-
-[ ] Folder H1 extracted before `2023_05_29/45_Parent_room.csv`
+✅ Folder H1, H2
 
 NOTE :
 
