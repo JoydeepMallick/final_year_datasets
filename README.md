@@ -25,8 +25,11 @@ All the csv files will be created in the name format `folder_name.csv` in the `C
 
 ✅ Folder F1 and F2
 
-✅ Folder H1, H2
+✅ Folder H1, H2 on line
 
-NOTE :
+❌ Folder R1, R2,... unaccessible
+
+
+### NOTE :
 
 F1 and F2 seem identical. Need to check if they are same or not.
