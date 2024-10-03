@@ -1,6 +1,6 @@
 # Dataset cleaned from dalton dataset
 
-The dataset has been gathered from Preprocessed folder of [dalton-dataset](https://github.com/prasenjit52282/dalton-dataset/tree/main/Processed) for further cleaning.
+The dataset has been gathered from Processed folder of [dalton-dataset](https://github.com/prasenjit52282/dalton-dataset/tree/main/Processed) for further cleaning.
 
 The cleaned data of all files is stored in `Cleaned` folder for conveinence. Extremely **big files have been compressed to be under 100mb and need to be extracted individually**.
 
