@@ -10,7 +10,7 @@ You may try online extractor too [Aspose Extractor](https://products.aspose.app/
 
 ### Important
 
-- `H1` is split into 4 parts, so while extracting **select those 4 parts together and then extract as a whole**. 
+- `H1` is split into 4 parts, so while extracting **select those 4 parts together and then extract as a whole**. Similarly do the needful for `H2`, `H3` and so on.
 
 
 ### Support
