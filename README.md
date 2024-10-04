@@ -25,13 +25,14 @@ All the csv files will be created in the name format `folder_name.csv` in the `C
 
 ✅ Folder F1 and F2
 
-✅ Folder H1, H2
+✅ Folder H1, H2, H3, H4
 
-✅ Folder H3 on line
+✅ Folder H4 on line
 
 ❌ Folder R1, R2,... unaccessible
 
+### ⚠️ Project on hold due to lack of bandwidth and funding
 
 ### NOTE :
 
-F1 and F2 seem identical. Need to check if they are same or not.
+F1 and F2 seem identical. 
